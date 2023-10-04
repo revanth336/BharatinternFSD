@@ -1,1 +1,1 @@
-# [Preview](https://easy-video-conference.netlify.app){: .btn}
+# [Preview >>](https://easy-video-conference.netlify.app)
